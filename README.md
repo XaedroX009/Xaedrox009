@@ -8,7 +8,7 @@
 ---
 ✨ I'm a Software Engineer and technical writer passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
 
-I love sharing my knowledge with others. I'm a Jr. Software Developer at Constructora Rizek. When I'm not coding, you can find me learning new things on Reddit, Youtube or just boosting around in Rocket League.
+I love sharing my knowledge with others. I'm a Software Developer in the US. When I'm not coding, you can find me learning new things on Reddit, Youtube or just boosting around in Rocket League.
 
 
 - 😄 My Hobbies: Read, Videogames, Astronomy   
